@@ -18,7 +18,12 @@ Olá! Me chamo Gustavo Antonio 😁👌
   <img align="center" alt="Rafa-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
-![Snake animation](https://github.com/Gustavo-https)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavo-https/Gustavo-https/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavo-https/Gustavo-https/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gustavo-https/Gustavo-https/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
 
 
